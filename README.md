@@ -1,5 +1,5 @@
 # 030238220101_Nguy-n-Nh-t-Qu-nh-Lan_AI-Agent
-# Dashboard Đánh Giá Khả Năng Triển Khai AI Agent Một Cách Có Trách Nhiệm
+# Dashboard Đánh Giá Khả Năng Triển Khai AI Agent 
 
 ## Giới thiệu dự án
 
